@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609730943977",
+    "firebase_url": "https://anime-d81fe.firebaseio.com",
+    "project_id": "anime-d81fe",
+    "storage_bucket": "anime-d81fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609730943977:android:a318b176e93459dd",
+        "android_client_info": {
+          "package_name": "com.issa.anime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609730943977-odd2ujnp6j71urcgfsh5tpm3kcdnqun7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.issa.anime",
+            "certificate_hash": "46f5d5b989103025f850b77dad6d4971af3dfa2e"
+          }
+        },
+        {
+          "client_id": "609730943977-mk23uplumikv9ohq9sh8lo307b8gimr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXAfgV7rsUpXqwdGxDKCy3zgR8wwBl8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609730943977-mk23uplumikv9ohq9sh8lo307b8gimr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
